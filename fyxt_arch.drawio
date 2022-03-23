@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T15:00:20.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="IWlpGcxMJs2o8wl-Jx4q" version="17.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-23T15:02:02.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="dtrAywOVO_JcL_2zp2V1" version="17.2.0" type="github" pages="4">
   <diagram id="AD9NcxBlqvP_TzNcRdTW" name="整体系统架构">
     <mxGraphModel dx="1018" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -532,6 +532,14 @@
         <mxCell id="tnhKYfpki4zPw7n2Ftn_-47" value="当前单据平衡表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="565" width="90" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NMDZzCogqEVkPAaggJ2S" name="控制逻辑流程">
+    <mxGraphModel dx="1018" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
