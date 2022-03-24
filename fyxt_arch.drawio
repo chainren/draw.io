@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T15:02:02.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="dtrAywOVO_JcL_2zp2V1" version="17.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-24T13:06:29.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="3Jc6Aq_a9a_FZdY8dIAK" version="17.2.0" type="github" pages="4">
   <diagram id="AD9NcxBlqvP_TzNcRdTW" name="整体系统架构">
     <mxGraphModel dx="1018" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,149 +16,152 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="710" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-2" value="业务单据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-2" value="业务单据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-3" value="合同立项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-3" value="合同立项" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-4" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-4" value="合同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="190" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-5" value="补充合同&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%90%88%E5%90%8C%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%2280%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-5" value="补充合同&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%90%88%E5%90%8C%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%2280%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="300" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-6" value="合同验收" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-6" value="合同验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="410" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-7" value="合同结算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-7" value="合同结算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-8" value="付款申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-8" value="付款申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="630" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-9" value="预算调剂" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-9" value="预算调剂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-10" value="日常报销" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-10" value="日常报销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="410" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-11" value="借款申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-11" value="借款申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="300" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-12" value="出差申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-12" value="出差申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="190" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SQZDWl5lXgqloxnIGq3_-13" value="费用申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SQZDWl5lXgqloxnIGq3_-13" value="费用申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="80" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-1" value="预算追加" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-1" value="预算追加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-2" value="月度计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-2" value="月度计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="300" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tpseUle6IPLXpmietJof-3" target="tpseUle6IPLXpmietJof-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="20" y="320" width="710" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-4" value="控制引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-4" value="控制引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="20" y="320" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-5" value="预算控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-5" value="预算控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-11" value="口径管控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-11" value="口径管控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="80" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="440" width="310" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-13" value="支付口径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-13" value="支付口径" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-14" value="发生口径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-14" value="发生口径" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="335" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-6" value="全盘控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-6" value="全盘控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-7" value="年度控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-7" value="年度控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="295" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="345" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-8" value="月度控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-8" value="月度控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-20" value="审批通过/驳回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-20" value="审批通过/驳回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="610" y="465" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-21" value="引擎接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-21" value="引擎接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="510" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-9" value="发起审批无对冲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-9" value="发起审批无对冲" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="610" y="415" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-10" value="发起审批对冲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-10" value="发起审批对冲" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="610" y="365" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="20" y="585" width="710" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-29" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-29" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="20" y="585" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-30" value="平衡表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-30" value="平衡表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="90" y="630" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-31" value="引擎接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-31" value="引擎接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="90" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="705" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-33" value="审批通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-33" value="审批通过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="730" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-34" value="审批驳回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-34" value="审批驳回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="315" y="730" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-35" value="增改删" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-35" value="增改删" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="420" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpseUle6IPLXpmietJof-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="640" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-37" value="单据引擎规则" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-37" value="单据引擎规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="660" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-38" value="重算逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-38" value="重算逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="720" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="20" y="850" width="710" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-41" value="报表输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-41" value="报表输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="20" y="850" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-42" value="公司费用分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-42" value="公司费用分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="100" y="885" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-43" value="部门费用分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-43" value="部门费用分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="215" y="885" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpseUle6IPLXpmietJof-44" value="大小屏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tpseUle6IPLXpmietJof-44" value="大小屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="330" y="885" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UVobFqZjILmZVwV3IBxB-1" value="费用系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="790" y="60" width="50" height="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
