@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T10:28:24.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="RY7lHQjp4qVmTXhMxrhT" version="17.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-27T10:33:41.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="LUBzIwKBAOT4zYXFER0r" version="17.2.1" type="github" pages="5">
   <diagram id="JrMOKF3t77e5IFE57YYV" name="传统一模式与saas模式的部署模型对比">
     <mxGraphModel dx="1018" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-o05LC9pbqUo271wgZFp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="340" height="380" as="geometry" />
+          <mxGeometry x="180" y="120" width="360" height="470" as="geometry" />
         </mxCell>
         <mxCell id="-o05LC9pbqUo271wgZFp-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-o05LC9pbqUo271wgZFp-3">
           <mxGeometry relative="1" as="geometry">
@@ -240,7 +240,7 @@
           <mxGeometry x="389" y="160" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="-o05LC9pbqUo271wgZFp-8" value="一次开发无限扩展" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="470" width="110" height="20" as="geometry" />
+          <mxGeometry x="430" y="565" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-o05LC9pbqUo271wgZFp-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-o05LC9pbqUo271wgZFp-10" target="-o05LC9pbqUo271wgZFp-11">
           <mxGeometry relative="1" as="geometry" />
@@ -254,6 +254,9 @@
         <mxCell id="-o05LC9pbqUo271wgZFp-10" value="Tenant load balancer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="320" width="181" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-o05LC9pbqUo271wgZFp-11" target="-o05LC9pbqUo271wgZFp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-o05LC9pbqUo271wgZFp-11" value="软件实例" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
@@ -262,6 +265,25 @@
         </mxCell>
         <mxCell id="-o05LC9pbqUo271wgZFp-13" value="软件实例" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="249" y="500" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-o05LC9pbqUo271wgZFp-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="309" y="500" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-o05LC9pbqUo271wgZFp-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-o05LC9pbqUo271wgZFp-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="369" y="500" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
