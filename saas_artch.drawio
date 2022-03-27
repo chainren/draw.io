@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T08:28:40.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Qa5GW7T87TlbTlMLPV40" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-27T08:46:40.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="kL4AmbTrZLWfdAlVrnHU" version="17.2.1" type="github" pages="2">
   <diagram id="JrMOKF3t77e5IFE57YYV" name="传统一模式与saas模式的部署模型对比">
     <mxGraphModel dx="1018" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,11 +84,38 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bYE7hUSXt7BSidNkDRvL" name="第 2 页">
+  <diagram id="bYE7hUSXt7BSidNkDRvL" name="成熟度level1">
     <mxGraphModel dx="1018" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8KgYZYZ9_VnfnH_EN4KT-1" target="8KgYZYZ9_VnfnH_EN4KT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-1" value="租户1" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8KgYZYZ9_VnfnH_EN4KT-2" target="8KgYZYZ9_VnfnH_EN4KT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-2" value="租户2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8KgYZYZ9_VnfnH_EN4KT-3" target="8KgYZYZ9_VnfnH_EN4KT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-3" value="租户3" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="389" y="160" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-4" value="软件实例1" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="234" y="310" width="28" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-6" value="软件实例2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="321" y="310" width="28" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgYZYZ9_VnfnH_EN4KT-8" value="软件实例3" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="28" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
